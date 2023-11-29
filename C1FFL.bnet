@@ -1,6 +1,4 @@
-True,    True
-XandY,   XandY
+X,   !X
 
-X,       True
-Y,       X
-Z,       XandY
+Y,   !X
+Z,   !X | !Y
